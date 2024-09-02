@@ -1,4 +1,0 @@
-# cursoDePython
-
-## Description
-
