@@ -8,10 +8,12 @@ Esto es un
 comentario en
 varias líneas
 """
+
 '''
 Esto es un
 comentario en
 varias líneas
 '''
+print(type("Hola Python"))
 
 
