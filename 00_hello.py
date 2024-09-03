@@ -16,4 +16,16 @@ varias líneas
 '''
 print(type("Hola Python"))
 
+# consultar el tipo de dato
+print(type("Soy un dato str")) # tipo 'str'
+print(type(5)) # tipo 'int'
+print(type(1.5)) # tipo 'float'
+print(type(1+ 2j)) # tipo 'complex'
+print(type(True)) # tipo 'bool'
+
+
+
+
+
+
 
