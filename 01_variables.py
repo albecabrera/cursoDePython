@@ -27,6 +27,13 @@ print("Me llamo:", name, surname, ". Mi edad es:", age, "Y mi alias es:", alias)
 # Inputs
 name = input('¿Cuál es tu nombre?: ')
 age = input('¿Cuántos años tienes? ')
-
 print(name)
 print(age)
+ 
+ # Forzamos el tipo
+ """
+ address: str = "Mi dirección"
+ address = 32
+ print(address)
+ """
+ 
