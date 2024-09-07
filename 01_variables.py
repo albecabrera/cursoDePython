@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 my_string_variable = "My String variable"
 print(my_string_variable)
 
@@ -37,3 +38,12 @@ print(age)
  print(address)
  """
  
+=======
+# Forzamos el tipo
+address: str = "Mi dirección"
+address = 46
+print(type(address))
+
+
+
+>>>>>>> c1a6604 (first commit)
