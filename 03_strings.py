@@ -18,6 +18,11 @@ print(my_tab_string)
 my_scape_string = "\\tEste es un String \\n escapado"
 print(my_scape_string)
 
-=======
 print(my_new_line_string)
->>>>>>> 146aadb (first commit)
+
+# Formateo
+
+name, surname, age = "Alberto", "Caburea", 47
+
+print("Mi nombre e %s %s y mi edad es %s")
+
