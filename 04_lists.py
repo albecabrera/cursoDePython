@@ -10,4 +10,7 @@ print(my_order_list[0])
 print(my_order_list[1])
 print(my_order_list[-1])
 print(my_order_list[-4])
+print(my_order_list.count(30))
+print(my_order_list.count("Alberto"))
+
 
