@@ -52,4 +52,16 @@ print(language_slice)
 reversed_language = language[::-1]
 print(reversed_language)
 
+# Funciones
+
+print(language.capitalize())
+print(language.upper())
+print(language.lower())
+print(language.count("t"))
+print(language.isnumeric())
+print("1".isnumeric())
+print(language.lower().isupper())
+
+
+
 
