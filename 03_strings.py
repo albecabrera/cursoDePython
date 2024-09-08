@@ -61,6 +61,10 @@ print(language.count("t"))
 print(language.isnumeric())
 print("1".isnumeric())
 print(language.lower().isupper())
+print(language.startswith("Py"))
+print("Py" == "py")
+
+
 
 
 
